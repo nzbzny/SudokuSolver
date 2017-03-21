@@ -303,5 +303,5 @@ int main() {
 		solver.bruteForce();
 		solver.print();
 	}
-	system("pause");
+	system("pause"); //so the user can see the final output
 }
