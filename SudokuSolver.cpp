@@ -303,6 +303,5 @@ int main() {
 		solver.bruteForce();
 		solver.print();
 	}
-	std::string seeSolution = ""; //allows the user to see the solution
-	std::cin >> seeSolution;
+	system("pause");
 }
